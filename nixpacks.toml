@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ["fontconfig", "freetype", "liberation_ttf"]
+nixPkgs = ["fontconfig", "freetype"]
 
 [phases.install]
-cmds = ["npm install"]
+cmds = ["npm install axios", "npm install"]
