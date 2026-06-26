@@ -1,2 +1,5 @@
 [phases.setup]
-nixPkgs = ["fontconfig", "freetype"]
+nixPkgs = ["fontconfig", "freetype", "liberation_ttf"]
+
+[phases.install]
+cmds = ["npm install"]
