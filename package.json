@@ -47,5 +47,6 @@
     "validate-date": "^2.0.0",
     "validator": "^13.7.0",
     "zlib-sync": "^0.1.9"
+    "axios": "^1.6.0"
   }
 }
